@@ -10,7 +10,7 @@ Don't worry introverts and lone wolves: group work isn't mandatory!
 By the time you get to this hackathon, [the first beta of Umbraco 14 will be out](https://umbraco.com/blog/umbraco-product-update-february-2024/), so some of the available projects will focus on getting your hands dirty with the latest and greatest.
 
 > [!NOTE]  
-> Homework alert! If you want to come prepared, we have the following resources ready:
+> v14 / New Backoffice Homework Alert! If you want to come prepared, we have the following resources ready:
 > - [Documentation](https://docs.umbraco.com/umbraco-backoffice/fundamentals/setup/install)
 > - [A whole string of blog posts from Kevin Jump](https://dev.to/kevinjump)
 > - [A recent UmbraCollab on creating a very simple property editor for v14](https://www.youtube.com/watch?v=arztzoXqFzM)
