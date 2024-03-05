@@ -21,7 +21,7 @@ Additionally, on the board there is projects to help improve community initiativ
 
 ## 💬 Happy to chat
 
-💡 If you have ideas of your own, let us know so we can add them to the board. The easiest way to do so is to have a GitHub issue ready that we can link to.
+💡 If you have ideas of your own, let us know so we can add them to the board. The easiest way to do so is to raise an issue on this Github repo.
 
 The organizers are [Lotte Pitcher](https://umbracocommunity.social/@lotte) and [Sebastiaan Janssen](https://cultiv.social/@sebastiaan) and we can be best reached in the `#contributing` channel on [the Umbraco Discord server](http://discord.umbraco.com).
 
