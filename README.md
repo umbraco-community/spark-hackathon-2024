@@ -11,7 +11,8 @@ By the time you get to this hackathon, [the first beta of Umbraco 14 will be out
 
 > [!NOTE]  
 > v14 / New Backoffice Homework Alert! If you want to come prepared, we have the following resources ready:
-> - [Documentation](https://docs.umbraco.com/umbraco-backoffice/fundamentals/setup/install)
+> - [v14 beta release notes/instructions](https://our.umbraco.com/download/releases/1400)
+> - [New Backoffice documentation](https://docs.umbraco.com/umbraco-backoffice/fundamentals/setup/install)
 > - [A whole string of blog posts from Kevin Jump](https://dev.to/kevinjump)
 > - [A recent UmbraCollab on creating a very simple property editor for v14](https://www.youtube.com/watch?v=arztzoXqFzM)
 > 
