@@ -3,7 +3,7 @@
 If you've ever been to an Umbraco hackathon before you'll know it's traditionally the place where we all clone a copy of the Umbraco source code and start trying to fix bugs or build small features.
 We're happy for you to come along and do this again, but we also want to give you new options that might be interesting to you. 
 
-We [have a list ready](https://github.com/orgs/umbraco-community/projects/3/views/1) for you with small projects that we think would be great to work on. They are designed to encourage collaborative learning. You're encouraged to form small teams around a subject that you find interesting from this list. 
+We [have a list - as a Project Board - ready for you](https://github.com/orgs/umbraco-community/projects/3/views/1) with small projects that we think would be great to work on. They are designed to encourage collaborative learning. You're encouraged to form small teams around a subject that you find interesting from this list. 
 
 Don't worry introverts and lone wolves: group work isn't mandatory!
 
